@@ -1,6 +1,6 @@
 # Class:
 系統分析與設計
-# Project Name:
+# Project:
 Artificial intelligence interview system
 # Member:
 0524020 洪湘嬅 
