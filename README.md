@@ -1,7 +1,8 @@
 # Class:
+2018-nkust-oo<br>  
 系統分析與設計
 # Project:
-AI面試系統<br>  Artificial intelligence interview system
+人工智慧面試系統<br>  Artificial intelligence interview system
 # Member:
 0524020 洪湘嬅 
 
